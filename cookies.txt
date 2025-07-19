@@ -1,0 +1,11 @@
+csrftoken	C1xA2BSDZA6pPRGytCvrl5YppIjhBDxY	.instagram.com	/	2026-08-23T14:12:44.446Z	41		✓				Medium
+datr	_UO0Z2itgqWEaefjRzPD_X1w	.instagram.com	/	2026-03-25T08:25:33.400Z	28	✓	✓	None			Medium
+ds_user_id	58511426771	.instagram.com	/	2025-10-17T14:12:44.446Z	21		✓	None			Medium
+ig_did	6E35C139-22E3-4CE6-BE48-7616090F3F07	.instagram.com	/	2026-02-18T08:25:33.229Z	42	✓	✓	None			Medium
+ig_nrcb	1	.instagram.com	/	2026-02-18T08:25:34.858Z	8		✓				Medium
+mid	Z4-WmgALAAGD0XZHo5wYiTYx2fCa	.instagram.com	/	2026-02-25T12:44:09.890Z	31	✓	✓	None			Medium
+ps_l	1	.instagram.com	/	2026-05-20T12:02:05.241Z	5	✓	✓	Lax			Medium
+ps_n	1	.instagram.com	/	2026-05-20T12:02:05.241Z	5	✓	✓	None			Medium
+rur	"CLN\05458511426771\0541784470368:01fe9b987a386b6911b1177bf82de22c734ce25261e02fff30bf7b1e7557ac4b614d8984"	.instagram.com	/	Session	110	✓	✓	Lax			Medium
+sessionid	58511426771%3Av5Q1Z6TYlsXUF5%3A7%3AAYcQrKUBzdj1HO3MzA6hgsGnbPp4FE_bASX8l4lglg	.instagram.com	/	2026-07-19T14:12:41.838Z	86	✓	✓				Medium
+wd	1204x911	.instagram.com	/	2025-07-26T14:12:50.000Z	10		✓	Lax			Medium
